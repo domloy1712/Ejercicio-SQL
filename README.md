@@ -1,3 +1,9 @@
-## Ejercicios SQL 
+# Ejercicios SQL 
 
-No hay datos importantes sino simplemente ejemplos para practicar en base de datos. 
+Son ejercicios de SQL para un bootcamp.
+estan desglosados dentro de cada ejercicio:
+
+- El pdf y el ejercicio en cuestion.
+
+
+
