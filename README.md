@@ -1,6 +1,9 @@
 # Ejercicios SQL
 
-Son ejercicios de SQL para un bootcamp.
-estan desglosados dentro de cada ejercicio:
+Son ejercicios de SQL, dentro de cada rama es un ejercicio
+donde habra:
 
-- El pdf y el ejercicio en cuestion.
+-PDF 
+-Archivo.sql
+
+
